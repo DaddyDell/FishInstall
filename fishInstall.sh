@@ -12,6 +12,7 @@
 
 #Installing Fish and Updating System
 sudo apt-get update -y
+sudo apt-get install curl
 sudo apt-get install fish
 
 #Installing OMF + Theme
